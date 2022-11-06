@@ -7,6 +7,28 @@
     border: 1px solid white;
 } */
 
+.scroll-down-container {
+    margin: 0 auto;
+    display: flex;
+    top: 65%;
+    position: relative;
+    flex-direction: column;
+    font-family: 'Special Elite', cursive;
+    font-size: 20px;
+}
+
+.scroll-down-container > div {
+    margin: 0 auto;
+    color: white;
+}
+
+.scroll-down-container > img {
+    display: block;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+}
+
 :root {
     --top-offset: 200px;
     --spacing: 0px;
