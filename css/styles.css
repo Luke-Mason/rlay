@@ -194,9 +194,9 @@ body {
 }
 
 #girl > div {
+    margin: auto 0;
     margin-left: 180px;
-    margin-top: 280px;
-    margin-bottom: 150px;
+    height: fit-content;
 }
 
 #scene {
@@ -204,30 +204,30 @@ body {
   
 }
 #scene > div {
+    margin: auto 0;
     margin-left: auto;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom:300px;
+    height: fit-content;
 }
 
 #evidence1 {
     background-image: url( The-Note.jpg);
 }
 #evidence1 > div {
+    margin: auto 0;
     margin-left: auto;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom: 260px;
+    height: fit-content;
 }
 
 #evidence2 {
     background-image: url( The-Phone.jpg);
 }
 #evidence2 > div {
+    margin: auto 0;
     margin-left: 170px;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom: 330px;
+    height: fit-content;
 }
 
 #evidence3 {
@@ -235,10 +235,10 @@ body {
 }
 
 #evidence3 > div {
+    margin: auto 0;
     margin-left: 170px;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom: 260px;
+    height: fit-content;
 }
 
 #evidence4 {
@@ -246,10 +246,10 @@ body {
 
 }
 #evidence4 > div {
+    margin: auto 0;
     margin-left: 170px;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom: 280px;
+    height: fit-content;
 }
 
 #evidence5 {
@@ -257,47 +257,45 @@ body {
   
 }
 #evidence5 > div {
+    margin: auto 0;
     margin-left: 190px;
     margin-right: 100px;
-    margin-top: 240px;
-    margin-bottom: 260px;
+    height: fit-content;
 }
 #evidence6 {
     background-image: url( The-Shoe.jpg);
 }
 #evidence6 > div {
+    margin: auto 0;
     margin-left: auto;
     margin-right: 150px;
-    margin-top: 240px;
-    margin-bottom: 330px;
+    height: fit-content;
 }
 #evidence7 {
     background-image: url( The-Chips.jpg);
 }
 #evidence7 > div {
+    margin: auto 0;
     margin-left: auto;
     margin-right: 60px;
-    margin-top: 240px;
-    margin-bottom: 310px;
+    height: fit-content;
 }
 #evidence8 {
     background-image: url( The-Cup.jpg);
 
 }
 #evidence8 > div {
+    margin: auto 0;
     margin-left: auto;
     margin-right: 150px;
-    margin-top: 240px;
-    margin-bottom: 330px;
+    height: fit-content;
 }
 #viewing {
     background-image: url( The-Viewing.jpg);
 }
 #viewing > div {
-    margin-left: 450px;
-    margin-right: auto;
-    margin-top: 240px;
-    margin-bottom: 290px;
+    margin: auto;
+    height: fit-content;
 }
 
 .blacktitlepage {
